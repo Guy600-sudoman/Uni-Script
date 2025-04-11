@@ -2,7 +2,7 @@ local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao1
 
 local Window = redzlib:MakeWindow({
     Title = "Universal Script",
-    SubTitle = "by YourNameHere",
+    SubTitle = "by Phi",
     SaveFolder = "UniversalScriptConfig"
 })
 
